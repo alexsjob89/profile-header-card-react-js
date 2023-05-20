@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/profile-header-card-react-js/static/css/main.a2eee8ad.css",
+    "main.js": "/profile-header-card-react-js/static/js/main.06850244.js",
+    "static/media/Cameo_of_Benedetto_Pistrucci.jpg": "/profile-header-card-react-js/static/media/Cameo_of_Benedetto_Pistrucci.10d3f5347e045f4259c7.jpg",
+    "index.html": "/profile-header-card-react-js/index.html",
+    "main.a2eee8ad.css.map": "/profile-header-card-react-js/static/css/main.a2eee8ad.css.map",
+    "main.06850244.js.map": "/profile-header-card-react-js/static/js/main.06850244.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2eee8ad.css",
+    "static/js/main.06850244.js"
+  ]
+}
